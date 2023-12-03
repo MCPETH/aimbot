@@ -3,7 +3,7 @@ Lua script for implementing a basic aimbot in Roblox games. The aimbot is trigge
 
 ## For Education Only!
 
-##Example:
+# Example:
 
 ```lua
 toggle = Enum.KeyCode.Insert
